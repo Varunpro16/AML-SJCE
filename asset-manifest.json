@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/AML-SJCE/static/css/main.6128f848.css",
+    "main.js": "/AML-SJCE/static/js/main.7132d82a.js",
+    "static/media/03.png": "/AML-SJCE/static/media/03.4dd951c3700cdd2e79c9.png",
+    "static/media/02.png": "/AML-SJCE/static/media/02.dcaaa19e45db9993f737.png",
+    "static/media/004.jpg": "/AML-SJCE/static/media/004.d3fd11f80626aea149f8.jpg",
+    "static/media/017.jpg": "/AML-SJCE/static/media/017.4e55bb2a6d75a97178aa.jpg",
+    "static/media/cisco.png": "/AML-SJCE/static/media/cisco.64fd65c5146ce9ef5d25.png",
+    "static/media/avasoft.png": "/AML-SJCE/static/media/avasoft.907a2c84c85cdde7c268.png",
+    "static/media/016.jpg": "/AML-SJCE/static/media/016.80cc347d88c873916859.jpg",
+    "static/media/accenture.png": "/AML-SJCE/static/media/accenture.8082a4b7dc047f0fc408.png",
+    "static/media/01.png": "/AML-SJCE/static/media/01.b25502b8ce471888c547.png",
+    "static/media/bus.jpg": "/AML-SJCE/static/media/bus.3cdfdd762da045dfce1f.jpg",
+    "static/media/wipro.png": "/AML-SJCE/static/media/wipro.3157467e6aeb1b688988.png",
+    "static/media/002.jpg": "/AML-SJCE/static/media/002.6394e393f033ca598498.jpg",
+    "static/media/pooster.jpg": "/AML-SJCE/static/media/pooster.7c4fb6ee077e41ede5f8.jpg",
+    "static/media/001.jpg": "/AML-SJCE/static/media/001.9ee9a880973ab5ad6f6f.jpg",
+    "static/media/food.png": "/AML-SJCE/static/media/food.4b32153b0da9cbb35e1b.png",
+    "static/media/007.jpg": "/AML-SJCE/static/media/007.2f1baf5be033e46607c9.jpg",
+    "static/media/005.jpg": "/AML-SJCE/static/media/005.f6e8ab43e92ba6b07a8b.jpg",
+    "static/media/015.jpg": "/AML-SJCE/static/media/015.23e9fa52cb653ee47270.jpg",
+    "static/media/006.jpg": "/AML-SJCE/static/media/006.0ae74c0d652befd3279d.jpg",
+    "static/media/008.jpg": "/AML-SJCE/static/media/008.acb95d642f7f1a960b9c.jpg",
+    "static/media/cognizant.png": "/AML-SJCE/static/media/cognizant.397dd770c1dcbea73f72.png",
+    "static/media/014.jpg": "/AML-SJCE/static/media/014.7d37d6290769bb139041.jpg",
+    "static/media/012.jpg": "/AML-SJCE/static/media/012.fdcfa5bb290fc6382d2e.jpg",
+    "static/media/mindtree.png": "/AML-SJCE/static/media/mindtree.d55875fdec37d3afc459.png",
+    "static/media/011.jpg": "/AML-SJCE/static/media/011.f964c786f36d2234c2ee.jpg",
+    "static/media/013.jpg": "/AML-SJCE/static/media/013.86adea1b631ef3c2d288.jpg",
+    "static/media/003.jpg": "/AML-SJCE/static/media/003.c9842b92ea7d0f33f1f9.jpg",
+    "static/media/adobe.png": "/AML-SJCE/static/media/adobe.d41725c3e13f080f6fee.png",
+    "static/media/zoho.png": "/AML-SJCE/static/media/zoho.a4800c71e2197a1ef657.png",
+    "index.html": "/AML-SJCE/index.html",
+    "main.6128f848.css.map": "/AML-SJCE/static/css/main.6128f848.css.map",
+    "main.7132d82a.js.map": "/AML-SJCE/static/js/main.7132d82a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6128f848.css",
+    "static/js/main.7132d82a.js"
+  ]
+}
